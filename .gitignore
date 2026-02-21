@@ -4,3 +4,4 @@ conspiraciones/api-key.txt
 conspiraciones/dataset.csv
 hate/data/*
 .DS_Store
+titanic/titanic-ampliado.ipynb
