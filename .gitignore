@@ -5,3 +5,8 @@ conspiraciones/dataset.csv
 hate/data/*
 .DS_Store
 titanic/titanic-ampliado.ipynb
+emotions/test.csv
+emotions/train.csv
+emotions/validation.csv
+emotions/emotions-preprocess.ipynb
+.gitignore
