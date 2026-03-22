@@ -9,4 +9,5 @@ emotions/test.csv
 emotions/train.csv
 emotions/validation.csv
 emotions/emotions-preprocess.ipynb
+evaluacion/*
 .gitignore
